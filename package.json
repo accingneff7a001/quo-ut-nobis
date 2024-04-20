@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@accingneff7a001/quo-ut-nobis",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/accingneff7a001/quo-ut-nobis.git"
   },
   "dependencies": {
+    "@accingneff7a001/natus-ipsum-maiores": "^1.0.0"
   }
 }
